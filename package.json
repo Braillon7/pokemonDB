@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "pokemon battle",
   "main": "index.js",
+  "homepage": "https:/Braillon7.github.io/pokemondb",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Nasir",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
