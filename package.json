@@ -1,0 +1,11 @@
+{
+  "name": "pokemondb",
+  "version": "1.0.0",
+  "description": "pokemon battle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nasir",
+  "license": "MIT"
+}
